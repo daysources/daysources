@@ -2,7 +2,7 @@
 <h1 align="center">Olá, me chamo Pedro Henrique!</h1>  
 <h3 align="center">Sou formado em Análise e Desenvolvimento de Sistemas, e tenho foco no ambiente Backend com Springboot.</h3>  
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daysources&label=Visualizações%20de perfil&color=0e75b6&style=flat"/> </p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daysources&label=Visualizações&color=0e75b6&style=flat"/> </p>  
   
 - 🌱 No momento estou aprendendo **C# e Angular.**   
   
