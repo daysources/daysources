@@ -1,24 +1,23 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F1832&height=150&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=1BF2F7&vCenter=true&random=false&width=500&lines=Ol%C3%A1!+Seja+bem-vindo!;Me+chamo+Pedro+Cavalcante%2C+tenho+21+anos%2C;e+sou+estudante+em;+An%C3%A1lise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
+<h1 align="center">Olá, me chamo Pedro Henrique!</h1>  
+<h3 align="center">Sou formado em Análise e Desenvolvimento de Sistemas, e tenho foco no ambiente Backend com Springboot.</h3>  
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daysources&label=Visualizações%20de perfil&color=0e75b6&style=flat"/> </p>  
+  
+- 🌱 No momento estou aprendendo **C# e Angular.**   
+  
+- 💬 Atualmente me interesso por **Cloud, Front End e Experiência de Usuário.**  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daysources&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- 📄 Veja meu currículo completo no LinkedIn [www.linkedin.com/in/pedro-henrique-cavalcante-da-silva](www.linkedin.com/in/pedro-henrique-cavalcante-da-silva)  
 
-<div align="center"> 
-<a href = "[https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent?compose=GTvVlcSGLPsBzDzFKxBgpcNdvtScWSbrmthmFZqmsgZDQtbWflwCXzptfVqvrdGgMMbsTNmhCsWQZ](https://mail.google.com/mail/u/0/?fs=1&to=pedrihiq@gmail.com&su=SUBJECT&body=BODY&tf=cm)"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div>
- 
-### Estudando no momento:
-![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![JAVA](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=DAA520)&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=ffdd54)&nbsp;
+- 📝 Veja meu perfil na Digital Innovation One [https://www.dio.me/users/pedrihiq](https://www.dio.me/users/pedrihiq) 
 
+- 📫 Meu contato é **cavalcantedasilvapedrohenrique@gmail.com**  
 
-<div align="center">
-<br><p align="centre"><b>Contador de Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{daysources}/count.svg" /></p> 
-<br>
-</div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f1832&height=150&section=footer"/>
+  
+<h3 align="left">Linguagens e Ferramentas:</h3>  
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>  
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daysources&show_icons=true&locale=en&layout=compact" alt="daysources" /></p>  
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daysources&show_icons=true&locale=en" alt="daysources" /></p>
